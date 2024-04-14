@@ -1,0 +1,6 @@
+model:
+  max_part_num: 40
+  
+source_idx: 73
+train_render_scene_idx: 157
+test_render_scene_idx: 0
