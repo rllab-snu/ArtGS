@@ -5,7 +5,7 @@ build
 diff_rasterization/diff_rast.egg-info
 diff_rasterization/dist
 tensorboard_3d
+pytorch3d
 screenshots
-data/
 data
-submodules/
+submodules
